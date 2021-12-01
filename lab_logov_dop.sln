@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_logov_dop", "lab_logov_dop\lab_logov_dop.csproj", "{72E500F8-6EF3-413B-93F7-337764B047A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E500F8-6EF3-413B-93F7-337764B047A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E500F8-6EF3-413B-93F7-337764B047A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E500F8-6EF3-413B-93F7-337764B047A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E500F8-6EF3-413B-93F7-337764B047A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8658439A-C23C-4C8C-9209-3CDBB9B842FC}
+	EndGlobalSection
+EndGlobal
